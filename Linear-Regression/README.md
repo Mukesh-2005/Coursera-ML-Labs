@@ -35,7 +35,7 @@ This guided my decision to use `FUELCONSUMPTION_COMB` as the primary input for t
 
 ![Best Features](https://raw.githubusercontent.com/Mukesh-2005/Coursera-ML-Labs/main/Linear-Regression/images/Best%20features.png)
 
-
+---
 
 ## 🧠 What I Did
 
@@ -73,4 +73,4 @@ This guided my decision to use `FUELCONSUMPTION_COMB` as the primary input for t
 - Explore polynomial regression for non-linear relationships
 - Compare performance with other regression models (e.g., Ridge, Lasso)
 
-
+---
