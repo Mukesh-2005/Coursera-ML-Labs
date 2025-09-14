@@ -4,9 +4,15 @@ This project is a personalized implementation of the **Simple Linear Regression*
 
 ---
 
-## 📊 Dataset Overview
 
-**Source**: [FuelConsumption.csv – Canada Open Data](http://open.canada.ca/data/en/dataset/98f1a129-f628-4ce4-b24d-6f16bf24dd64)
+## 📊 Dataset overview
+
+**FuelConsumptionCo2.csv**  
+This dataset contains fuel consumption ratings and estimated CO₂ emissions for light-duty vehicles sold in Canada.
+
+- Source: [IBM Skills Network Lab Dataset](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-ML0101EN-SkillsNetwork/labs/Module%202/data/FuelConsumptionCo2.csv)
+- Loaded directly via `pandas.read_csv()` from the URL
+
 
 The dataset includes specifications and fuel consumption ratings for light-duty vehicles sold in Canada. Key features include:
 
