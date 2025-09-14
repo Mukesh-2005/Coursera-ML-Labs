@@ -23,6 +23,20 @@ The dataset includes specifications and fuel consumption ratings for light-duty 
 
 ---
 
+## 🔍 Feature Selection
+
+To identify the most predictive features for CO₂ emissions, I computed the correlation matrix and visualized key variables:
+
+- `FUELCONSUMPTION_COMB` showed the strongest positive correlation with CO₂ emissions  
+- `ENGINESIZE` and `CYLINDERS` also had strong linear relationships  
+- Visualizations (histograms and scatter plots) helped confirm the suitability of these features for regression
+
+This guided my decision to use `FUELCONSUMPTION_COMB` as the primary input for the simple linear regression model.
+
+![Best Features](https://raw.githubusercontent.com/Mukesh-2005/Coursera-ML-Labs/main/Linear-Regression/images/Best%20features.png)
+
+
+
 ## 🧠 What I Did
 
 - Explored and cleaned the dataset using **Pandas**
