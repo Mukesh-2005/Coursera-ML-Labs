@@ -31,6 +31,7 @@ This notebook explores regression tree models applied to the `yellow-tripdata.cs
 - Suggests potential heteroscedasticity and model inadequacy
 - Red dashed line at zero helps visualize bias and error spread
 
+![Residuals vs. Predicted Values](https://github.com/Mukesh-2005/Coursera-ML-Labs/blob/main/Regression_Tree/Visuals/Residuals.png)
 ---
 
 ## 🌲 Tree Structure Visualization
@@ -39,8 +40,8 @@ This notebook explores regression tree models applied to the `yellow-tripdata.cs
 - Leaf nodes show predicted values and sample counts
 - Squared error values indicate local fit quality
 - Deeper trees capture more splits but do not improve generalization
-- 
-![Regression Tree Structure(https://github.com/Mukesh-2005/Coursera-ML-Labs/blob/main/Regression_Tree/Visuals/Residuals.png)
+
+![Regression Tree Structure](https://github.com/Mukesh-2005/Coursera-ML-Labs/blob/main/Regression_Tree/Visuals/Regresion_tree.png)
 ---
 
 ## 📊 Feature Correlation Analysis
