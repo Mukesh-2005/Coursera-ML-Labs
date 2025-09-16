@@ -18,7 +18,7 @@ These were selected based on their strong positive correlation with `CO2EMISSION
 ## 📸 Visualizations
 
 ### Fuel Consumption vs CO₂ Emissions
-![Fuel vs Emission](https://github.com/Mukesh-2005/Coursera-ML-Labs/blob/main/Multi-Linear-Regression/charts/Fuelconsumption_comp_mpg.png)  
+![Fuel vs Emission](https://github.com/Mukesh-2005/Coursera-ML-Labs/blob/main/Multi-Linear-Regression/charts/Fuelconsumption_comp_mpg.png)
 *Higher MPG → Lower emissions. A clear negative correlation.*
 
 ### Engine Size vs CO₂ Emissions
