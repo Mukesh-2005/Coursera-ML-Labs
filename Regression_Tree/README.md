@@ -40,7 +40,7 @@ This notebook explores regression tree models applied to the `yellow-tripdata.cs
 - Squared error values indicate local fit quality
 - Deeper trees capture more splits but do not improve generalization
 - 
-![Regression Tree Structure](Random-Forest/Visuals/Regression_Tree)
+![Regression Tree Structure(Regression_Tree/Visuals/Regresion_tree.png)
 ---
 
 ## 📊 Feature Correlation Analysis
