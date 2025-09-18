@@ -39,7 +39,7 @@ Both models were trained and evaluated on the same train-test split for fair com
 - **XGBoost Residual Std Dev**: `0.4717`
 - Most predictions from both models fall within ±1 standard deviation of the actual values.
 - **Random Forest** respects the upper bound of the target values, while **XGBoost** occasionally overshoots — a sign of its aggressive boosting behavior.
-
+![Random Forest & XGBoost]()
 ---
 
 ## 🧠 Key Learnings
@@ -63,4 +63,5 @@ Both models were trained and evaluated on the same train-test split for fair com
 ## 🧪 Requirements
 
 ```bash
-pip install scikit-learn xgboost matplotlib numpy
+pip install -r requirements.txt
+
