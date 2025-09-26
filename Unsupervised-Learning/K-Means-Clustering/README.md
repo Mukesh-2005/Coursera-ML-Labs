@@ -52,5 +52,10 @@ These segments can help businesses target high-value customers and optimize mark
 - Choosing the right number of clusters is key to meaningful segmentation
 - 3D plots offer deeper insight into multi-feature clustering (though not shared here)
 
+## 🛠️ Setup
 
+Install dependencies with:
+
+```bash
+pip install -r requirements.txt
 
