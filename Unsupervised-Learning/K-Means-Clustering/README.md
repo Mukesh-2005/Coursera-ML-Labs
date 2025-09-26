@@ -24,6 +24,7 @@ X, y = make_blobs(n_samples=5000, centers=[[4,4], [-2, -1], [2, -3], [1, 1]], cl
 ```
 
 Explored clustering with different values of k (3, 4, 5) to understand how cluster count affects grouping.
+![k = 3](https://github.com/Mukesh-2005/Coursera-ML-Labs/blob/9220b5c7c1e9f054139a5b278f8c9f638c71bd4f/Unsupervised-Learning/K-Means-Clustering/Visuals/no%203.png)![k=4](https://github.com/Mukesh-2005/Coursera-ML-Labs/blob/9220b5c7c1e9f054139a5b278f8c9f638c71bd4f/Unsupervised-Learning/K-Means-Clustering/Visuals/no%204.png)
 
 ## 📦 Real-World Dataset
 
@@ -38,6 +39,8 @@ k_means.fit(X)
 labels = k_means.labels_
 ```
 ## 📊 Insights from Clustering
+![2-D](https://github.com/Mukesh-2005/Coursera-ML-Labs/blob/9220b5c7c1e9f054139a5b278f8c9f638c71bd4f/Unsupervised-Learning/K-Means-Clustering/Visuals/2-D.png)
+
 Based on the clustering output and visual analysis (2D and 3D), the customers were grouped into:
 - LATE CAREER, AFFLUENT, AND EDUCATED
 - MID CAREER AND MIDDLE INCOME
