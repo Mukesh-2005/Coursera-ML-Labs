@@ -62,3 +62,7 @@ Top 6 most correlated features with fraud label:
 2. Install required libraries:  
    ```bash
    pip install -r requirements.txt
+
+
+> Built by Mukesh — part of my supervised learning series  
+> 📅 Last updated: September 2025
