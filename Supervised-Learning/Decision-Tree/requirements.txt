@@ -3,5 +3,3 @@ pip install pandas==2.2.3
 pip install scikit-learn==1.6.0
 pip install matplotlib==3.9.3
 pip install plotly
-pip install seaborn
-pip install xgboost
