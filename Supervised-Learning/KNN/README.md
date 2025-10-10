@@ -79,3 +79,6 @@ These results show that increasing the number of neighbors can improve generaliz
    ```bash
    pip install pandas numpy matplotlib scikit-learn
 ---
+
+> Built by Mukesh — part of my supervised learning series  
+> 📅 Last updated: September 2025
