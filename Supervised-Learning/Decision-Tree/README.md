@@ -35,7 +35,9 @@ This project demonstrates a multiclass classification approach using a decision 
 
 ## 📊 Visualizations
 - **Category Distribution**: Bar chart showing frequency of each drug class
+  ![Decison Tree](https://github.com/Mukesh-2005/Coursera-ML-Labs/blob/main/Supervised-Learning/Decision-Tree/visuals/types%20of%20drugs.png?raw=true)
 - **Decision Tree**: Visual representation of the model's logic and splits
+  ![Decision Tree](https://github.com/Mukesh-2005/Coursera-ML-Labs/blob/main/Supervised-Learning/Decision-Tree/visuals/Decison%20tree.png?raw=true)
 
 ## 🧠 Key Concepts Explained
 - **Label Encoding vs One-Hot Encoding**:
