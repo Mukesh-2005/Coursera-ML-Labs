@@ -10,7 +10,7 @@ This project focuses on building machine learning models to detect fraudulent cr
 - **Features:** 30 anonymized variables including `V1` to `V28`, `Amount`, and `Time`  
 - **Target variable:** `Class` (0 = legitimate, 1 = fraud)
   
-![plot](https://github.com/Mukesh-2005/Coursera-ML-Labs/blob/main/SVM%20%26%20Decision%20Tree/graphs/fraud%20Detection.png)
+![plot](https://github.com/Mukesh-2005/Coursera-ML-Labs/blob/main/Supervised-Learning/SVM%20&%20Decision%20Tree/graphs/fraud%20Detection.png?raw=true)
 
 ## ⚠️ Class Imbalance
 
