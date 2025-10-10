@@ -52,3 +52,7 @@ This lab serves as a foundation for future personal projects. Upcoming work will
 - Model comparison and interpretability
 
 Stay tuned for original machine learning projects built from scratch!
+
+
+> Built by Mukesh — part of my supervised learning series  
+> 📅 Last updated: September 2025
