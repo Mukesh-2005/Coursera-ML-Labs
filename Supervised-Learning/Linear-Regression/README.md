@@ -74,3 +74,6 @@ This guided my decision to use `FUELCONSUMPTION_COMB` as the primary input for t
 - Compare performance with other regression models (e.g., Ridge, Lasso)
 
 ---
+
+> Built by Mukesh — part of my supervised learning series  
+> 📅 Last updated: September to October 2025
