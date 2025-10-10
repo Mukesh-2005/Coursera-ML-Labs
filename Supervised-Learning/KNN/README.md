@@ -81,4 +81,4 @@ These results show that increasing the number of neighbors can improve generaliz
 ---
 
 > Built by Mukesh — part of my supervised learning series  
-> 📅 Last updated: September 2025
+> 📅 Last updated: September to October 2025
