@@ -56,5 +56,5 @@ This project demonstrates a multiclass classification approach using a decision 
 - Implement feature importance visualization
 - Deploy model with a simple web interface
 
-
-## 👨‍🔬 AuthorMukesh — Passionate about model robustness, interpretability, and ethical machine learning in real-world applications.
+> Built by Mukesh — part of my supervised learning series  
+> 📅 Last updated: September to October 2025
