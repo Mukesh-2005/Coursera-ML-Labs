@@ -60,11 +60,10 @@ Both models were trained and evaluated on the same train-test split for fair com
 
 ---
 
-
-> Built by Mukesh — part of my supervised learning series  
-> 📅 Last updated: September to October 2025
 ## 🧪 Requirements
 
 ```bash
 pip install -r requirements.txt
-
+```
+> Built by Mukesh — part of my supervised learning series  
+> 📅 Last updated: September to October 2025
