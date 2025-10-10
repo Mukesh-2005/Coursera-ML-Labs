@@ -60,3 +60,7 @@ Install dependencies with:
 
 ```bash
 pip install -r requirements.txt
+```
+
+> Built by Mukesh — part of my supervised learning series  
+> 📅 Last updated: September to October 2025
