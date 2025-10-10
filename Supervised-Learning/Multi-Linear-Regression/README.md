@@ -59,3 +59,7 @@ The multiple linear regression model significantly outperforms the simple model,
 
 - Add more features like `FUELCONSUMPTION_CITY` or `FUELCONSUMPTION_HWY`
 - Try polynomial regression or regularization techniques
+---
+
+> Built by Mukesh — part of my supervised learning series  
+> 📅 Last updated: September to October 2025
