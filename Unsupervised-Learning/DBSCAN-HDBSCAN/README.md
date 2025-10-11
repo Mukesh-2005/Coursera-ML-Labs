@@ -55,5 +55,7 @@ This wasn’t just about code — it was about learning how algorithms behave, h
 
 ---
 
+> Built by Mukesh — part of my unsupervised learning series  
+> 📅 Last updated: September to October 2025
 
 
