@@ -19,12 +19,12 @@ This project explores the geographic distribution of museums across Canada using
 - Density-based clustering using fixed radius (`eps`) and minimum neighbors (`min_samples`)
 - Performed well due to uniform density and manual coordinate scaling
 - Result: **33 clusters**, **79 noise points**
-
+  ![DBSCAN](https://github.com/Mukesh-2005/Coursera-ML-Labs/blob/main/Unsupervised-Learning/DBSCAN-HDBSCAN/visuals/Museums%20Clustered%201.png)
 ### HDBSCAN
 - Hierarchical clustering that adapts to varying densities
 - More sensitive, produced many small clusters and labeled more points as noise
 - Result: **145 clusters**, **458 noise points**
-
+  ![HDBSCAN](https://github.com/Mukesh-2005/Coursera-ML-Labs/blob/main/Unsupervised-Learning/DBSCAN-HDBSCAN/visuals/Museums%20Hierarchically%202.png)
 ---
 
 ## 🗺️ Visualization
@@ -52,6 +52,8 @@ This project was a big step in my unsupervised learning journey. I didn’t just
 - I kept asking myself: “Should I split the data into train and test sets?” But I learned that in unsupervised learning, especially clustering, we usually use the full dataset because there are no labels to predict.
 - When I compared DBSCAN and HDBSCAN, I expected HDBSCAN to be smarter. But it gave me 145 clusters and labeled 458 museums as noise — way more than DBSCAN. That’s when I realized: HDBSCAN is powerful, but it’s also sensitive. DBSCAN gave me cleaner, more interpretable clusters for this dataset.
 This wasn’t just about code — it was about learning how algorithms behave, how data structure matters, and how small decisions (like scaling) can change everything.
+
+---
 
 
 
