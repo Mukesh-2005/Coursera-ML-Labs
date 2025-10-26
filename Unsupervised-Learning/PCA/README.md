@@ -27,8 +27,8 @@ Bonus: 3D PCA visualization with synthetic 4D data using Matplotlib and Plotly.
 - Plotted projections to show principal directions
 
 ### 📌 Insight:
-- PC1 captures the direction of maximum variance  
-- PC2 is orthogonal and captures residual variance
+- PC1 captures the direction of maximum variance (0.9111946) which is 90% percent.
+- PC2 is orthogonal and captures residual variance (0.0888054) which is 9% percent.
 
 ---
 
