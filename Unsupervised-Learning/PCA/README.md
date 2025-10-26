@@ -24,12 +24,16 @@ Bonus: 3D PCA visualization with synthetic 4D data using Matplotlib and Plotly.
 - Visualized raw data using scatter plot  
 - Applied PCA with `n_components=2`  
 - Manually projected data onto PC1 and PC2  
-- Plotted projections to show principal directions
+- Plotted projections to show principal directions.
+
+![Synthetic Data](https://github.com/Mukesh-2005/Coursera-ML-Labs/blob/main/Unsupervised-Learning/PCA/visuals/synthetic%20data.png?raw=true)
 
 ### 📌 Insight:
 - PC1 captures the direction of maximum variance (0.9111946) which is 90% percent.
 - PC2 is orthogonal and captures residual variance (0.0888054) which is 9% percent.
+
 ![Principle components](https://github.com/Mukesh-2005/Coursera-ML-Labs/blob/main/Unsupervised-Learning/PCA/visuals/PC%201%20&%202.png?raw=true)
+
 ---
 
 ## 🌸 Part II — PCA on Iris Dataset
@@ -50,6 +54,8 @@ Bonus: 3D PCA visualization with synthetic 4D data using Matplotlib and Plotly.
 - Setosa class is clearly separable in reduced space  
 - Cumulative plot helps decide how many PCs to retain
 
+![cumulative variance](https://github.com/Mukesh-2005/Coursera-ML-Labs/blob/main/Unsupervised-Learning/PCA/visuals/cumulative%20variance.png?raw=true)
+
 ---
 
 ## 🧊 Bonus — PCA in 3D with Synthetic 4D Data
@@ -60,8 +66,10 @@ Bonus: 3D PCA visualization with synthetic 4D data using Matplotlib and Plotly.
 - Created synthetic 4D data  
 - Applied PCA with `n_components=3`  
 - Visualized PCA-transformed data in 3D:
-  - Matplotlib scatter with quivers  
-  - Plotly interactive 3D scatter with PC vectors
+    - Matplotlib scatter with quivers  
+    - Plotly interactive 3D scatter with PC vectors
+
+![Bones](https://github.com/Mukesh-2005/Coursera-ML-Labs/blob/main/Unsupervised-Learning/PCA/visuals/understanding.png?raw=true)
 
 ### 📌 Insight:
 - 3D PCA helps intuitively grasp variance distribution  
