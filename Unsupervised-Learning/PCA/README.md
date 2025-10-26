@@ -29,7 +29,7 @@ Bonus: 3D PCA visualization with synthetic 4D data using Matplotlib and Plotly.
 ### 📌 Insight:
 - PC1 captures the direction of maximum variance (0.9111946) which is 90% percent.
 - PC2 is orthogonal and captures residual variance (0.0888054) which is 9% percent.
-
+![Principle components](https://github.com/Mukesh-2005/Coursera-ML-Labs/blob/main/Unsupervised-Learning/PCA/visuals/PC%201%20&%202.png?raw=true)
 ---
 
 ## 🌸 Part II — PCA on Iris Dataset
