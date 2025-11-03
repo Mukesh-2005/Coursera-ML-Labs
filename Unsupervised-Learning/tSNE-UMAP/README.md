@@ -48,6 +48,7 @@ To compare three popular dimensionality reduction techniques — **t-SNE**, **UM
 - ✅ Interactive 3D plot of original blobs
 - ✅ 2D scatter plots for:
 - t-SNE projection
+  !(t-SNE)[ 
 - UMAP projection
 - PCA projection
 - ✅ Text cells with observations and interpretation prompts
