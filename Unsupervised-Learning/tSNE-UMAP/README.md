@@ -86,3 +86,6 @@ To compare three popular dimensionality reduction techniques — **t-SNE**, **UM
 ## 🗣️ Reflections
 This lab helped me understand how different dimensionality reduction techniques behave on clustered data. I learned how to interpret 2D projections, tune hyperparameters, and evaluate embeddings both visually and quantitatively.
 
+---
+>Built by Mukesh — part of my unsupervised learning series
+>📅 Last updated: November 2025
