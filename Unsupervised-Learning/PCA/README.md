@@ -81,3 +81,8 @@ Bonus: 3D PCA visualization with synthetic 4D data using Matplotlib and Plotly.
 
 ```python
 numpy, matplotlib, sklearn (PCA, datasets, StandardScaler), plotly
+```
+---
+
+>Built by Mukesh — part of my unsupervised learning series
+>📅 Last updated: November 2025
