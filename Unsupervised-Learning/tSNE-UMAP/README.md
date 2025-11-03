@@ -45,13 +45,15 @@ To compare three popular dimensionality reduction techniques — **t-SNE**, **UM
 
 ## 📊 Outputs
 
-- ✅ Interactive 3D plot of original blobs
-- ✅ 2D scatter plots for:
-- t-SNE projection
-  !(t-SNE)[ 
-- UMAP projection
-- PCA projection
-- ✅ Text cells with observations and interpretation prompts
+### I. Interactive 3D plot of original blobs
+### ii. 2D scatter plots for:
+### iii. t-SNE projection
+![t-SNE](https://github.com/Mukesh-2005/Coursera-ML-Labs/blob/main/Unsupervised-Learning/tSNE-UMAP/visuals/2-D%20t-SNE.png?raw=true)
+### iv. UMAP projection
+![UMAP](https://github.com/Mukesh-2005/Coursera-ML-Labs/blob/main/Unsupervised-Learning/tSNE-UMAP/visuals/2-D%20UMAP.png?raw=true)
+### v. PCA projection
+![PCA](https://github.com/Mukesh-2005/Coursera-ML-Labs/blob/main/Unsupervised-Learning/tSNE-UMAP/visuals/2-D%20PCA.png?raw=true)
+### vi. Text cells with observations and interpretation prompts
 
 ---
 
