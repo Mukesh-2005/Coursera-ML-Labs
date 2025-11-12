@@ -14,3 +14,8 @@ Explore individual model implementations and their results:
 - 🌲 [Random Forest & XGBoost](./Supervised-Learning/Random_Forest_XGBoost)
 - 📏 [Regression Tree](./Supervised-Learning/Regression-Tree)
 - ⚖️ [SVM & Decision Tree](./Supervised-Learning/SVM%20&%20Decision%20Tree)
+
+## 🧠 Unsupervised Learning Models 
+
+These notebooks explore unsupervised techniques for pattern discovery, dimensionality reduction, and anomaly detection. Each folder includes code, results, and personal notes.
+
