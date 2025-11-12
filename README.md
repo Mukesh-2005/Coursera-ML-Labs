@@ -15,7 +15,15 @@ Explore individual model implementations and their results:
 - 📏 [Regression Tree](./Supervised-Learning/Regression-Tree)
 - ⚖️ [SVM & Decision Tree](./Supervised-Learning/SVM%20&%20Decision%20Tree)
 
-## 🧠 Unsupervised Learning Models 
+
+## 🧠 Unsupervised Learning Models
+
+Explore individual model implementations and their results:
+
+- 🧪 [K-Means Clustering](./Unsupervised-Learning/K-Means-Clustering)
+- 🌀 [DBSCAN & HDBSCAN](./Unsupervised-Learning/DBSCAN-HDBSCAN)
+- 📉 [PCA (Dimensionality Reduction)](./Unsupervised-Learning/PCA)
+- 🌌 [t-SNE & UMAP](./Unsupervised-Learning/tSNE-UMAP)
 
 These notebooks explore unsupervised techniques for pattern discovery, dimensionality reduction, and anomaly detection. Each folder includes code, results, and personal notes.
 
