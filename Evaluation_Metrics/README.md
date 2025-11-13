@@ -94,3 +94,7 @@ This lab emphasizes the **importance of evaluation metrics** in model assessment
 
 ---
 
+>Built by Mukesh — part of My Evaluation Metrics series.
+📅 Last updated: November 2025
+
+
